@@ -1,0 +1,3 @@
+- print a todo list
+- print a weekly todo list
+- print a month
