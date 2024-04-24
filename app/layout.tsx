@@ -11,8 +11,9 @@ const pixel = Pixelify_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "printodo - todo list print template",
-  description: "Made by @jordienr, open source, built with nextjs and supabase",
+  title: "printodos - todo list print template",
+  description:
+    "Made by @jordienr, open source, built with nextjs, tailwindcss, and typescript.",
 };
 
 export default function RootLayout({

@@ -139,8 +139,8 @@ export default function Home() {
       <aside className="w-80 border-r p-1.5 print:hidden">
         <h2 className="tracking-tight flex items-center font-medium p-3">
           <span className="text-xl mr-2">🖨️</span>
-          Printodo
-          <span className="text-zinc-300">.app</span>
+          Printodos
+          <span className="text-zinc-300">.com</span>
         </h2>
         <div className="space-y-2">
           <SingleAccordion label="Page">
